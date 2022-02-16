@@ -1,0 +1,16 @@
+To find nth number in fibonacci
+
+Step 1: declare integers a,b,n,c,i
+
+Step 2: assign a=0
+
+Step 3: assign b=1
+
+Step 4: input a
+
+Step 5: for i=2 to n
+            assign c=a+b
+            assign a=b
+            assign b=c
+
+Step 6: print b 

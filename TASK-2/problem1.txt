@@ -1,0 +1,16 @@
+1. This program will allow the user to check the number whether the number is divisible by 3 or Not
+
+2. STEP-1: declare integer n 
+
+3. STEP-2: input integer n 
+
+4. STEP-3: while n>0 assign n=n-3
+
+5. STEP-4: if n==0
+              print response
+                    " TRUE "
+           else
+              print response
+                    " FALSE "
+              
+          
